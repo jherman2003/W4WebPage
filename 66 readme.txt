@@ -1,0 +1,1 @@
+The page "W4 Assignment: Web Pages" is a simple designed webpage showing my favorite video game and my favorite movie. It's nothing too flashy but the information is displayed cleanly and easy to read.

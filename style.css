@@ -1,0 +1,38 @@
+body{
+	background: -webkit-linear-gradient(right, #0588fa, #000000, #0588fa);
+	background: linear-gradient(to right, #0588fa, #000000, #0588fa);
+	color: #0588fa;
+}
+
+h1{
+	color: #00eeff;
+	text-shadow:0 0 2px black;
+	font-family: times new roman, black;
+	  margin: auto;
+  width: 50%;
+    text-align: center;
+}
+
+h2{
+	color: #000fff;
+	text-shadow:0 0 2px black;
+	font-family: times new roman, arial;
+	  margin: auto;
+  width: 50%;
+    text-align: center;
+}
+
+h3{
+	color: black;
+	text-shadow:0 0 2px white;
+	font-family: times new roman, arial;
+}
+
+p{
+	color: black;
+	font-family: times new roman, arial;
+}
+
+a:visited{
+	color: aqua;
+}
